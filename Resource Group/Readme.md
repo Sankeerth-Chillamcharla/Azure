@@ -62,17 +62,88 @@ It will take few secounds to create a resource group.
 
  
 
-#### Problme Statment 1   
-1. Connect to Azure Cloud Shell
-2. Create a resource group “new-rg” in South Central US region
+#### Problme Statment 1  
+
+
+ 
+
+1.1 **Connect to Azure Cloud Shell**
+
+##### Step 1 
+Signin (or) signup to the azure portal. 
+
+##### Step 2
+
+Click on the **Cloud Shell** icon avlaiabe in the right top navigation and click on power shell button. 
+
+![ps1](https://user-images.githubusercontent.com/46291282/123557391-44979c00-d7ae-11eb-80ac-a8af51515128.png)
+
+##### Step 3 
+Manually select **subscription** and Click on the **creatre storage**. It will take few secounds to create a storage account, after creating the 
+storage account automaticaly Azure Cloudshell will open. 
+
+![ps1 1](https://user-images.githubusercontent.com/46291282/123557396-4d886d80-d7ae-11eb-956d-3ec4141ce6a7.png)
+
+
+1.2. **Create a resource group “new-rg” in South Central US region**
+
+            PS> New-AzResourceGroup -Name new-rg -Location "South Central US"
+
+![image](https://user-images.githubusercontent.com/46291282/123557500-b7a11280-d7ae-11eb-9951-12fd6e0c07df.png)
+
       
 #### Problme Statment 2    
-1. Connect Azure powershell to your azure account
-2. Create a new resource group in South Central US with the name “rg-powershell”
 
-#### Problme Statment 3    
-1. Create three more Resource groups in a specific region let’s say “West US”
-2. List all resource groups in West US
+2.1. **Connect Azure powershell to your azure account**
+Open Power Shell application on local windows system and excute the below command then automatically it will redirect to the azure login page.
+
+            az login
+
+![image](https://user-images.githubusercontent.com/46291282/123557480-9c360780-d7ae-11eb-9bbf-5c94b6cab633.png)
+
+
       
- #### Problme Statment 4    
-1. Delete all the resource groups in West US region using one command
+2.2. **Create a new resource group in Central US with the name “rg-powershell”**
+
+Run the following in **Azure Powershell** to create resource group.
+
+            az group create --location centralus --name rg-powershel
+
+![ps2](https://user-images.githubusercontent.com/46291282/123557353-1ca83880-d7ae-11eb-9963-ecd5a90e9c78.png)
+
+
+#### Problme Statment 3   
+ 
+3.1. **Create three more Resource groups in a specific region let’s say “West US”** 
+
+##### Step 1 
+Excute the below command in the **Azure Cli**
+
+      for i in 1 2 3; 
+      do  az group create --location westus --name rg-wus-$i; 
+      echo "Sucessfully New Resource Group rg-wus-$i created" ; 
+      done
+
+![ps3 1](https://user-images.githubusercontent.com/46291282/123557312-e074d800-d7ad-11eb-966d-47eddfcc9786.png)
+
+3.2. **List all resource groups in West US** 
+
+Excute the following command in **Azure Powershell** to fetch the all 
+resource groups form the **West US** location
+
+
+            Get-AzureRmResourceGroup -location westus
+
+![ps4](https://user-images.githubusercontent.com/46291282/123557288-b15e6680-d7ad-11eb-9a5e-f3cd6c1c3d15.png)
+
+
+ #### Problme Statment 4  
+  
+4.1. **Delete all the resource groups in West US region using one command**
+
+   Excute the fillowing command in **Azure Powershell** to Delete the all resource groups ion the West Us location
+
+       Get-AzureRmResourceGroup -location westus | Remove-AzureRmResourceGroup -Verbose -Force
+
+![ps4](https://user-images.githubusercontent.com/46291282/123557255-82e08b80-d7ad-11eb-9d39-5fd9244d2e8d.png)
+
