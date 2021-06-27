@@ -27,6 +27,7 @@ Signin (or) signup to the azure portal.
 
 ### Step 2   
 Select the Resource Group form the left top navigation bar and click on **Create** button.  
+ 
 ![image](https://user-images.githubusercontent.com/46291282/123547761-a68cdd00-d77f-11eb-9e90-d650a1b817fc.png)
 
 
@@ -39,14 +40,14 @@ Select the Resource Group form the left top navigation bar and click on **Create
 ![image](https://user-images.githubusercontent.com/46291282/123547773-b1e00880-d77f-11eb-923e-bc8c2b957b07.png)
 
 ### Step 4 
-Enter the **Tag Name** and **Value** after that click on the **Review + Create** button it will redirect to vlaidation section.
+Enter the **Tag Name** and **Value** after that click on the **Review + Create** button.
 
 ![image](https://user-images.githubusercontent.com/46291282/123547786-bad0da00-d77f-11eb-8c34-e3dd4bce65df.png)
 
 
 ### Step 5 
 
-1.After click on **Review + Create** it will redirect to the validation and we can see the validation success message. Now click on the **Create button**. 
+1.After click on **Review + Create** button it will redirect to the validation section and we can see the validation success message and nbow click on the **Create button**. 
 It will take few secounds to create a resource group. 
 
 ![image](https://user-images.githubusercontent.com/46291282/123547797-c8865f80-d77f-11eb-9fa6-be1b7a3ada32.png)
