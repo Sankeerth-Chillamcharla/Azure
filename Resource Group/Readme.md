@@ -95,6 +95,7 @@ storage account automaticaly Azure Cloudshell will open.
 #### Problme Statment 2    
 
 2.1. **Connect Azure powershell to your azure account**
+
 Open Power Shell application on local windows system and excute the below command then automatically it will redirect to the azure login page.
 
             az login
@@ -116,7 +117,6 @@ Run the following in **Azure Powershell** to create resource group.
  
 3.1. **Create three more Resource groups in a specific region let’s say “West US”** 
 
-##### Step 1 
 Excute the below command in the **Azure Cli**
 
       for i in 1 2 3; 
