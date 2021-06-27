@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/46291282/123545171-5fe5b580-d774-11eb-9b8f-5597625b7b81.png)
+
 ## How to Ceate Resource Grops in Azure?
 
 A resource group is a logically container that holds related resources like virtual machines, storage accounts, virtual networks, 
