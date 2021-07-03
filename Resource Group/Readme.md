@@ -62,7 +62,7 @@ It will take few seconds to create a resource group.
 
  
 
-#### Problem Ss
+#### Problem Statement 1 
 
 
  
@@ -74,7 +74,7 @@ Signin (or) signup to the azure portal.
 
 ##### Step 2
 
-Click on the **Cloud Shell** icon avaliable in the right top navigation and click on power shell button. 
+Click on the **Cloud Shell** icon available in the right top navigation and click on power shell button. 
 
 ![ps1](https://user-images.githubusercontent.com/46291282/123557391-44979c00-d7ae-11eb-80ac-a8af51515128.png)
 
@@ -92,9 +92,10 @@ storage account automatically Azure Cloud shell will open.
 ![image](https://user-images.githubusercontent.com/46291282/123557500-b7a11280-d7ae-11eb-9951-12fd6e0c07df.png)
 
       
-####  P    
+####  Problem Statement 2 
+    
 
-2.1. **Connect Azure Powershell to your azure account**
+2.1. **Connect Azure Power shell to your azure account**
 
 Open Power Shell application on local windows system and r the below command then automatically it will redirect to the azure login page.
 
@@ -113,7 +114,7 @@ Run the following in **Azure Power shell** to create resource group.
 ![ps2](https://user-images.githubusercontent.com/46291282/123557353-1ca83880-d7ae-11eb-9963-ecd5a90e9c78.png)
 
 
-#### P  
+#### Problem Statement 3 
  
 3.1. **Create three more Resource groups in a specific region let’s say “West US”** 
 
@@ -137,7 +138,7 @@ resource groups form the **West US** location
 ![ps4](https://user-images.githubusercontent.com/46291282/123557288-b15e6680-d7ad-11eb-9a5e-f3cd6c1c3d15.png)
 
 
- #### P  
+ #### Problem Statement 4
   
 4.1. **Delete all the resource groups in West US region using one command**
 
