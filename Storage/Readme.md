@@ -132,6 +132,38 @@ Go to tab navigation section and click on the **connect**, then select your driv
 
 Copy the script and open powershell in your local system and run it it will automatically add new network .
 
+## Problem Statement 4
+
+### Create Blob Storage and uplaod some files.
+### Create a CDN profile
+### Create an endpoint and connect to the Azure blob to access the files uploaded
+
+#### Step 4.1 
+
+![image](https://user-images.githubusercontent.com/46291282/124386634-f841e400-dcf8-11eb-88e6-922d3abbc793.png)
+
+
+#### Step 4.2
+
+![image](https://user-images.githubusercontent.com/46291282/124386652-06900000-dcf9-11eb-98d7-88aa4e90cbc8.png)
+
+
+![image](https://user-images.githubusercontent.com/46291282/124386660-0d1e7780-dcf9-11eb-984f-b259dec82311.png)
+
+
+![image](https://user-images.githubusercontent.com/46291282/124386874-06dccb00-dcfa-11eb-8aed-dac1e2ee9675.png)
+
+
+#### Step 4.3 (CDN Profile Creation) 
+
+![image](https://user-images.githubusercontent.com/46291282/124386761-86b66580-dcf9-11eb-9cbc-290cb062d578.png)
+
+#### Step 4.5
+
+![image](https://user-images.githubusercontent.com/46291282/124386913-3986c380-dcfa-11eb-97fb-c378f7e23d5a.png)
+
+
+
 
 
 
