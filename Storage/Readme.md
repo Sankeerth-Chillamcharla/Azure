@@ -3,7 +3,7 @@
 
 ## Problem Statement 1 
 
-### > Create 2 resource groups rg-1 and rg-2,  add storage account to rg-1 and move storage account from rg-1 to rg-2
+### Create 2 resource groups rg-1 and rg-2,  add storage account to rg-1 and move storage account from rg-1 to rg-2
 
 #### Step  1.1
 
@@ -64,8 +64,8 @@ Now select storage account and new resource group then click on **OK**, it will 
 
 ## Problem Statement 2 
 
-###  > Create 3 storage accounts with “Team” tags: team1, team2 and team3 respectively.
-###  > Create one more storage account for team2 and list all resources for team2 using tags
+###   Create 3 storage accounts with “Team” tags: team1, team2 and team3 respectively.
+###   Create one more storage account for team2 and list all resources for team2 using tags
 
 #### Step  2.1
 Signin (or) signup to the azure portal. 
@@ -94,8 +94,8 @@ Click on the add filter option and select the tag keyword as **team2** and click
 
 ## Problem Statement 3 
 
-### > Create a File share in Azure Storage.
-### > Mount this file share on windows.
+###  Create a File share in Azure Storage.
+###  Mount this file share on windows.
 
 #### Step 3.1 
 
