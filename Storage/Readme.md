@@ -1,5 +1,6 @@
 # Azure Storage
 
+![sankeerthchillamcharla](https://user-images.githubusercontent.com/46291282/124406189-39b8aa80-dd5e-11eb-84b8-1415be9fe855.png)
 
 ## Problem Statement 1 
 
@@ -166,7 +167,7 @@ Copy the script and open powershell in your local system and run it it will auto
 
 #### Step 4.6 (Create an endpoint and connect to the Azure blob to access the files uploaded) 
 
-![image](https://user-images.githubusercontent.com/46291282/124404948-afbb1280-dd5a-11eb-8e54-02c400472e94.png)
+![image](https://user-images.githubusercontent.com/46291282/124406237-610f7780-dd5e-11eb-85a3-651460ce2290.png)
 
 ![image](https://user-images.githubusercontent.com/46291282/124405002-eb55dc80-dd5a-11eb-9468-f64069c9ed4b.png)
 
