@@ -154,7 +154,7 @@ Copy the script and open powershell in your local system and run it it will auto
 ![image](https://user-images.githubusercontent.com/46291282/124386874-06dccb00-dcfa-11eb-8aed-dac1e2ee9675.png)
 
 
-#### Step 4.3 (CDN Profile Creation) 
+#### Step 4.3 (Create a CDN profile) 
 
 ![image](https://user-images.githubusercontent.com/46291282/124386761-86b66580-dcf9-11eb-9cbc-290cb062d578.png)
 
@@ -162,8 +162,26 @@ Copy the script and open powershell in your local system and run it it will auto
 
 ![image](https://user-images.githubusercontent.com/46291282/124386913-3986c380-dcfa-11eb-97fb-c378f7e23d5a.png)
 
+![image](https://user-images.githubusercontent.com/46291282/124404769-f2301f80-dd59-11eb-9265-94d8d1034b64.png)
+
+#### Step 4.6 (Create an endpoint and connect to the Azure blob to access the files uploaded) 
+
+![image](https://user-images.githubusercontent.com/46291282/124404948-afbb1280-dd5a-11eb-8e54-02c400472e94.png)
+
+![image](https://user-images.githubusercontent.com/46291282/124405002-eb55dc80-dd5a-11eb-9468-f64069c9ed4b.png)
+
+![image](https://user-images.githubusercontent.com/46291282/124405895-789a3080-dd5d-11eb-804a-e7d10820feef.png)
 
 
+## Problem Statement 5
+
+### Create an endpoint and connect to the Azure blob to access the files uploaded
+
+#### Step 5.1
+
+![image](https://user-images.githubusercontent.com/46291282/124406041-d62e7d00-dd5d-11eb-9919-775343f1a679.png)
+
+![image](https://user-images.githubusercontent.com/46291282/124406081-ef372e00-dd5d-11eb-89fa-6d223bd46934.png)
 
 
 
