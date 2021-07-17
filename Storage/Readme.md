@@ -1,4 +1,4 @@
-# Azure Storage
+# Azure Storage Part-1
 
 ![sankeerthchillamcharla](https://user-images.githubusercontent.com/46291282/124406189-39b8aa80-dd5e-11eb-84b8-1415be9fe855.png)
 
