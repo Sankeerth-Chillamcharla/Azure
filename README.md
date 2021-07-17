@@ -4,7 +4,7 @@ Azure Administrator Associate |   Azure Architect Expert DevOps Engineer Expert
 
 # Topics 
 
-- [x] ☁️ 1 > [Resource Groups](Journey/001/Readme.md)
+- [x] ☁️ 1 > [Resource Groups](Resource%20Group/Readme.md)
 - [x] ☁️ 2 > [Storage - I](Journey/001/Readme.md)
 - [x] ☁️ 3 > [Storage - II](Journey/001/Readme.md)
 - [ ] ☁️ 4 > [Azure Virtual Machines](Journey/001/Readme.md)
