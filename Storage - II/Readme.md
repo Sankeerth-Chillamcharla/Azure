@@ -53,6 +53,22 @@
    
    ![image](https://user-images.githubusercontent.com/46291282/126026453-6b65788d-6426-445a-9382-bc62f3b6b479.png)
 
+## 1. Create a Fileshare using the Storage explorer..
+
+   **Step 1:** Click on File share icon and again clikc on the create file share. 
+   
+   ![image](https://user-images.githubusercontent.com/46291282/126026621-c699acf7-afd2-4f26-a260-24f3598cbef5.png)
+   
+   **Step 2:** Click on the **Connect VM** and copy the code.
+   
+   ![image](https://user-images.githubusercontent.com/46291282/126026671-dd197ab6-5e7c-4c7e-bb9f-d50eafa41886.png)
+   
+   **Step 3:** Open CMD and Run the copied code. 
+
+   
+   
+   
+
    
   
 
