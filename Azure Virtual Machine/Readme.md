@@ -130,6 +130,11 @@
    **Step 5:**
    
    ![image](https://user-images.githubusercontent.com/46291282/126204276-1242ec38-b4e8-4b30-928e-c686d5dfcdde.png)
+   
+   **Step 6:**
+   
+   ![image](https://user-images.githubusercontent.com/46291282/126206503-21bd2ed5-8be7-4699-a767-8fc5e4eca3b7.png)
+
 
    
    
