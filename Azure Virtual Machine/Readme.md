@@ -4,6 +4,8 @@
   1. Create a VM (Ubuntu)  in the West US region and Open the SSH port, connect to the VM using the terminal.
   2. Create a Windows VM in West US region and Open the RDP port. Connect to it using Windows Remote Desktop.
   3. Create a VM (Ubuntu) scaleset and give min VM’s as 1, and maximum as 5, for Scaleout CPU utilization is 75% , and increase by 1 VM and scale in CPU utilization is 25% by 1VM.
+  4. Create a Linux VM with ubuntu OS nad install apache2 software and create a image out of VM.
+  5. Deploy a VM from the previously created image, open Port 80 in NSG, Start the apache2 service in the VM, and Verify if you are able to access the website.
 
 
 ## 1. Create a VM (Ubuntu)  in the West US region and Open the SSH port, connect to the VM using the terminal.
@@ -98,6 +100,55 @@
    **Step 6:**
    
    ![image](https://user-images.githubusercontent.com/46291282/126200815-da96f807-262c-4a29-9d5c-17eb1fccd8bf.png)
+   
+   
+## 4. Create a Linux VM with ubuntu OS nad install apache2 software and create a image out of VM.
+
+   **Step 1:** Refer the Solution 1 for creating the and connection Linux VM. 
+   
+   **Step 2:**
+   
+   ![image](https://user-images.githubusercontent.com/46291282/126203513-6397621c-5ce6-4c52-a5b2-819f33d5af02.png)
+   
+      1  sudo apt-get update
+      2  sudo apt-get install apache2
+      
+   **Step 3:**
+   
+   ![image](https://user-images.githubusercontent.com/46291282/126203641-7db3f4f2-e823-43ff-906d-5222a6b492d7.png)
+   
+   **Step 4:**
+   
+   ![image](https://user-images.githubusercontent.com/46291282/126204168-9c698a98-2358-4da5-89d1-745b7ca716c7.png)
+   
+   
+   **Step 5:**
+   
+   ![image](https://user-images.githubusercontent.com/46291282/126204230-c46d3a3e-582d-4b68-9da8-f87db35f5012.png)
+   
+   
+   **Step 5:**
+   
+   ![image](https://user-images.githubusercontent.com/46291282/126204276-1242ec38-b4e8-4b30-928e-c686d5dfcdde.png)
+
+   
+   
+    
+    
+
+
+   
+   
+   
+   
+
+   
+   
+
+   
+   
+
+
 
    
 
