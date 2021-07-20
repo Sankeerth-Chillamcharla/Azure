@@ -1,3 +1,6 @@
+
+![sankeerthchillamcharla (2)](https://user-images.githubusercontent.com/46291282/126346132-402e0e34-6b65-4c24-875f-c9b19682d8a4.png)
+
 # Azure Virtual Machine
 
 # Problem Statement
