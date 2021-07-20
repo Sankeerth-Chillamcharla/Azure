@@ -134,6 +134,65 @@
    **Step 6:**
    
    ![image](https://user-images.githubusercontent.com/46291282/126206503-21bd2ed5-8be7-4699-a767-8fc5e4eca3b7.png)
+   
+
+
+## 5. Deploy a VM from the previously created image, open Port 80 in NSG, Start the apache2 service in the VM, and Verify if you are able to access the website.
+    
+   **Step 1:**
+   
+   ![image](https://user-images.githubusercontent.com/46291282/126344501-d1563f05-ce0d-49f7-9218-f354a802cd5c.png)
+   
+   **Step 2:**
+   
+   ![image](https://user-images.githubusercontent.com/46291282/126344717-a3356b82-c50a-4dfe-b833-cb7b2b77fb7c.png)
+   
+   **Step 3:**
+   
+   ![image](https://user-images.githubusercontent.com/46291282/126344847-9204990e-2f99-43d4-88f1-610e8b780a2f.png)
+   
+   ![image](https://user-images.githubusercontent.com/46291282/126344963-945dc6b9-4ec9-4de4-851f-3f821ba90937.png)
+   
+   ![image](https://user-images.githubusercontent.com/46291282/126345059-a7ef27b4-8a8b-4e62-951f-db0c45785754.png)
+
+   **Step 4:**
+   
+   ![image](https://user-images.githubusercontent.com/46291282/126345225-4bd67564-058b-4b88-a189-be8a2468c401.png)
+   
+   **Step 5:**
+   
+   ![image](https://user-images.githubusercontent.com/46291282/126345302-d1ae211f-cde4-456d-89de-65559474c49b.png)
+   
+   **Step 6:**
+   
+   ![image](https://user-images.githubusercontent.com/46291282/126345388-955b87e8-4661-4e32-99e8-b0bcb562e885.png)
+   
+   **Step 7:** 
+   
+   ![image](https://user-images.githubusercontent.com/46291282/126345513-fac58a79-dbc0-4139-aa51-3584e9c8f053.png)
+   
+   **Step 8:** 
+   
+   ![image](https://user-images.githubusercontent.com/46291282/126345737-7a111f3b-729c-4f41-b590-3c12f26d22b8.png)
+
+   
+   
+
+
+   
+   
+
+
+   
+   
+   
+
+   
+   
+
+   
+   
+
 
 
    
