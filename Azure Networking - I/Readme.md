@@ -2,8 +2,8 @@
 
 
 # Problem Statemts
-  1. Create a Virtual network in West US and  creat another Virtual Network in Centeral India, deploy the 2VM's in a different networks. Create Vnet-Vnet Peering to connect West US and South India VM and check this by pinging VM1 to VM2 via ping command using private ip address
-  2. 
+  1. Create a Virtual network in West US and  creat another Virtual Network in Centeral India, deploy the 2VM's in a different networks. Create Vnet-Vnet Peering to connect West US and South India VM and check this by pinging VM1 to VM2 via ping command using private ip address?
+  2.  Create a VM in West US and assign Static IP Address, and create a new NIC and attach to current VM, then create a new NSG and attach to current vm and open the port nubmer 8o, insatll appache-2 in the VM and  Verify we are able to access the apache landing page or not, then creaet azure DNS Service to map VM public ip to the doamin name 
 
 
 ### 1. Create a Virtual network in West US and  creat another Virtual Network in South India, deploy the 2VM's in a different networks. Create Vnet-Vnet Peering to connect West US and South India VM and check this by pinging VM1 to VM2 via ping command using private ip address.
@@ -58,6 +58,20 @@
    **Step 12:**
    
    ![image](https://user-images.githubusercontent.com/46291282/126879334-e6c09a1f-bd60-4e74-9344-de37fceea9bf.png)
+   
+   
+ ### 2. Create a VM in West US and assign Static IP Address, and create a new NIC and attach to current VM, then create a new NSG and attach to current vm and open the port nubmer 8o, insatll appache-2 in the VM and  Verify we are able to access the apache landing page or not, then creaet azure DNS Service to map VM public ip to the doamin name ?
+ 
+   **Problem Statement Breackdown **
+   
+   Step 2.1:  Create a new vm in the WEST US Region and assign a static IP address.
+   Step 2.2:  Create A NIC and attach to VM
+   Step 2.3:  Install apache-2 in VM
+   step 2.4:  Create A new  NSG and Open Port 80
+   Step 2.5:  Create DNS and update nameservers and tey to acces the application with the new daomin name.
+ 
+ 
+ 
 
    
    
