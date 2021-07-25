@@ -1,14 +1,16 @@
 
+![sankeerthchillamcharla (3)](https://user-images.githubusercontent.com/46291282/126900246-194b0ec4-1711-4010-9f13-165927576142.png)
 
 
-# Problem Statemts
-  1. Create a Virtual network in West US and  creat another Virtual Network in Central India, deploy the 2VM's in a different networks. Create Vnet-Vnet Peering to connect West US and South India VM and check this by pinging VM1 to VM2 via ping command using private ip address.
+# Problem Statements
+
+  1. Create a Virtual network in West US and  create another Virtual Network in Central India, deploy the 2VM's in a different virtual networks. Create Vnet-Vnet Peering to connect West US and Central India VM, to check network peering connection use VM1 private IP address try to ping in VM2 CLI using ping command.
 
   2.  Create a virtual machine in the West US region, create a new public IP address and change private IP address status as static, and create a new NIC and attach to a current virtual machine, then create a new NSG and attach to a current virtual machine, and open the port number 80, install apache2 in the VM and  Verify we can access the apache landing page or not, then create azure DNS Service to map VM public IP to the domain name.
  
 
 
-### 1. Create a Virtual network in West US and  creat another Virtual Network in Central India, deploy the 2VM's in a different networks. Create Vnet-Vnet Peering to connect West US and South India VM and check this by pinging VM1 to VM2 via ping command using private ip address.
+### 1. Create a Virtual network in West US and  create another Virtual Network in Central India, deploy the 2VM's in a different virtual networks. Create Vnet-Vnet Peering to connect West US and Central India VM, to check network peering connection use VM1 private IP address try to ping in VM2 CLI using ping command..
 
   **Step 1:** 
   
