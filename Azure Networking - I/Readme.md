@@ -2,11 +2,13 @@
 
 
 # Problem Statemts
-  1. Create a Virtual network in West US and  creat another Virtual Network in Centeral India, deploy the 2VM's in a different networks. Create Vnet-Vnet Peering to connect West US and South India VM and check this by pinging VM1 to VM2 via ping command using private ip address?
-  2.  Create a VM in West US and assign Static IP Address, and create a new NIC and attach to current VM, then create a new NSG and attach to current vm and open the port nubmer 8o, insatll appache-2 in the VM and  Verify we are able to access the apache landing page or not, then creaet azure DNS Service to map VM public ip to the doamin name 
+  1. Create a Virtual network in West US and  creat another Virtual Network in Central India, deploy the 2VM's in a different networks. Create Vnet-Vnet Peering to connect West US and South India VM and check this by pinging VM1 to VM2 via ping command using private ip address.
+
+  2.  Create a virtual machine in the West US region, create a new public IP address and change private IP address status as static, and create a new NIC and attach to a current virtual machine, then create a new NSG and attach to a current virtual machine, and open the port number 80, install apache2 in the VM and  Verify we can access the apache landing page or not, then create azure DNS Service to map VM public IP to the domain name.
+ 
 
 
-### 1. Create a Virtual network in West US and  creat another Virtual Network in South India, deploy the 2VM's in a different networks. Create Vnet-Vnet Peering to connect West US and South India VM and check this by pinging VM1 to VM2 via ping command using private ip address.
+### 1. Create a Virtual network in West US and  creat another Virtual Network in Central India, deploy the 2VM's in a different networks. Create Vnet-Vnet Peering to connect West US and South India VM and check this by pinging VM1 to VM2 via ping command using private ip address.
 
   **Step 1:** 
   
@@ -35,7 +37,7 @@
    
    **Step 7:** To create a VM in different regions refer [https://github.com/Sankeerth-Chillamcharla/Azure/tree/main/Azure%20Virtual%20Machine](AVM). 
    
-   **NOTE** While creating the VM in NETWORKING TAB select the newely created **VNETS**. 
+   **NOTE:** While creating the VM in NETWORKING TAB select the newely created **VNETS**. 
    
    ![image](https://user-images.githubusercontent.com/46291282/126879264-594283bd-9339-4c2d-8568-381dd2c24b3d.png)
    
@@ -60,15 +62,18 @@
    ![image](https://user-images.githubusercontent.com/46291282/126879334-e6c09a1f-bd60-4e74-9344-de37fceea9bf.png)
    
    
- ### 2. Create a VM in West US and assign Static IP Address, and create a new NIC and attach to current VM, then create a new NSG and attach to current vm and open the port nubmer 8o, insatll appache-2 in the VM and  Verify we are able to access the apache landing page or not, then creaet azure DNS Service to map VM public ip to the doamin name ?
+ ### 2. Create a virtual machine in the West US region, create a new public IP address and change private IP address status as static, and create a new NIC and attach to a current virtual machine, then create a new NSG and attach to a current virtual machine, and open the port number 80, install apache2 in the VM and  Verify we can access the apache landing page or not, then create azure DNS Service to map VM public IP to the domain name.
  
-   **Problem Statement Breackdown **
+   **Problem Statement Breackdown**
    
-   Step 2.1:  Create a new vm in the WEST US Region and assign a static IP address.
-   Step 2.2:  Create A NIC and attach to VM
-   Step 2.3:  Install apache-2 in VM
-   step 2.4:  Create A new  NSG and Open Port 80
-   Step 2.5:  Create DNS and update nameservers and tey to acces the application with the new daomin name.
+   - Create a new resource group in west us region
+   - Create a VNET in same region
+   - Create a Public IP address
+   - Create a NIC (Network interface card)
+   - Create a NSG ( Netork security  Group)
+   - Create a Linux VM 
+   - Create DNS in the same region.
+   - Update the name servers and map vm public IP to DNS 
  
  
  
