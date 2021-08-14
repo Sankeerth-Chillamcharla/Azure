@@ -130,42 +130,42 @@ Problem Statement
   ![image](https://user-images.githubusercontent.com/46291282/129439545-1ca87dad-937c-42bb-819f-b97f85f705ff.png)
 
   
-  **Step :2*
+  **Step :2**
   
   ![image](https://user-images.githubusercontent.com/46291282/129439546-dd05eeb6-9103-4f4c-8e88-f23f1b1034d8.png)
 
   
-  **Step :3*
+  **Step :3**
   
   ![image](https://user-images.githubusercontent.com/46291282/129439548-00fe235d-d860-4422-8616-3476d41fd6d2.png)
 
   
-  **Step :4*
+  **Step :4**
   
   ![image](https://user-images.githubusercontent.com/46291282/129439554-50d2dc76-7897-409e-9615-496ea30fdd59.png)
 
   
-  **Step :5*
+  **Step :5**
   
   ![image](https://user-images.githubusercontent.com/46291282/129439558-2d81e38b-5dba-4f91-90f0-998961322055.png)
 
   
-  **Step :6*
+  **Step :6**
   
   ![image](https://user-images.githubusercontent.com/46291282/129439560-c82f0db7-d126-4397-ad5f-00abb5062c4f.png)
 
   
-  **Step :7
+  **Step :7**
   
   ![image](https://user-images.githubusercontent.com/46291282/129439564-d8e87355-2edf-4a6a-869d-22283f8b0afa.png)
 
   
-  **Step :8
+  **Step :8**
   
   ![image](https://user-images.githubusercontent.com/46291282/129439567-12159fe4-005f-43e4-980d-172b173d887c.png)
 
   
-  **Step :9
+  **Step :9**
   
   ![image](https://user-images.githubusercontent.com/46291282/129439572-75dd4ed4-8c88-4704-8be6-6f508dd43897.png)
 
