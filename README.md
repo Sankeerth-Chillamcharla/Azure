@@ -22,10 +22,6 @@ Azure Administrator Associate |   Azure Architect Expert DevOps Engineer Expert
 - [ ] ☁️ 12 > [Azure Data Platform - II](#)
 
 
-# Azure Case Studies
-
-- [ ] ☁️ 1 > [Case Study-1 (Azure Storage)](#)
-
 
 
 
